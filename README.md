@@ -1,0 +1,2 @@
+# BinSinBlog
+My blog page
