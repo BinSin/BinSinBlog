@@ -33,10 +33,10 @@ canonifyurls = true
 [author]
   name = "YongMin Bin"
   bio = "BinSin's Blog"
-  job = "Hansung University"
+  job = "Hansung University Student"
   location = "Korea"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "binyong318@gmail.com"
+  # gravatarEmail = "binyong318@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "http://d2sobhai8a0tcj.cloudfront.net/profile/me.jpg"
