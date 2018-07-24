@@ -15,7 +15,7 @@
 baseURL = "https://BinSin.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "BINSIN's blog"
+title = "BinSin's blog"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
