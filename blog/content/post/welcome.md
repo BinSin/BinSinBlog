@@ -9,8 +9,7 @@ tags:
 keywords:
 - BinSin
 - Reo
-autoThumbnailImage: false
-thumbnailImagePosition: "top"
+thumbnailImagePosition: left
 thumbnailImage: http://d2sobhai8a0tcj.cloudfront.net/reo/reo1.jpg
 coverImage: http://d2sobhai8a0tcj.cloudfront.net/reo/reo2.jpg
 metaAlignment: center
