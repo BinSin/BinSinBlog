@@ -1,6 +1,8 @@
 ---
 title: "My First Post"
 date: 2018-07-24T11:20:41+09:00
+thumbnailImagePosition: left
+thumbnailImage: http://d2sobhai8a0tcj.cloudfront.net/binsinblog/profile/me.jpg
 categories:
 - category
 - subcategory
