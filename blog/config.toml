@@ -39,7 +39,7 @@ canonifyurls = true
   # gravatarEmail = "binyong318@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "http://d2sobhai8a0tcj.cloudfront.net/profile/me2.jpg"
+  picture = "http://d2sobhai8a0tcj.cloudfront.net/profile/me3.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
