@@ -7,7 +7,8 @@ categories:
 tags:
 - BinSin
 - YongMin Bin
-thumbnailImagePosition: top
+autoThumbnailImage: false
+thumbnailImagePosition: "top"
 thumbnailImage: http://d2sobhai8a0tcj.cloudfront.net/reo/me1.jpg
 coverImage: http://d2sobhai8a0tcj.cloudfront.net/profile/me2.jpg
 metaAlignment: center
