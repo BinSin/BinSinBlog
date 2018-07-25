@@ -1,6 +1,6 @@
 ---
 title: "Welcome to BinSin's Blog"
-date: 2018-07-24
+date: 2018-07-01
 categories:
 - BinSin
 tags:
@@ -15,4 +15,4 @@ coverImage: http://d2sobhai8a0tcj.cloudfront.net/reo/reo2.jpg
 metaAlignment: center
 ---
 
-빈신 블로그 시작~
+# 빈신 블로그 시작~
