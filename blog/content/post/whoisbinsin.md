@@ -9,7 +9,7 @@ tags:
 - YongMin Bin
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
-thumbnailImage: http://d2sobhai8a0tcj.cloudfront.net/profile/me4.jpg
+thumbnailImage: http://d2sobhai8a0tcj.cloudfront.net/profile/me5.jpg
 coverImage: http://d2sobhai8a0tcj.cloudfront.net/profile/me2.jpg
 metaAlignment: center
 ---
