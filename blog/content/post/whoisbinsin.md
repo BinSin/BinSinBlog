@@ -1,7 +1,6 @@
 ---
 title: "Welcome to BinSin's Blog"
-date: 2018-07-02
-
+date: 2018-07-25
 categories:
 - BinSin
 - YongMin Bin
