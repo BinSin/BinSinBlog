@@ -1,5 +1,5 @@
 ---
-title: "Welcome to BinSin's Blog"
+title: "Start BinSin's Blog"
 date: 2018-07-01
 categories:
 - BinSin
