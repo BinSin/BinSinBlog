@@ -11,7 +11,7 @@ keywords:
 - Reo
 thumbnailImagePosition: left
 thumbnailImage: http://d2sobhai8a0tcj.cloudfront.net/reo/reo1.jpg
-coverImage: http://d2sobhai8a0tcj.cloudfront.net/reo/reo2.jpg
+coverImage: http://d2sobhai8a0tcj.cloudfront.net/reo/reo3.jpg
 metaAlignment: center
 ---
 
