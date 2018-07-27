@@ -15,3 +15,4 @@ metaAlignment: center
 ---
 
 # Who Is BinSin
+안녕하세요 저는 한성대학교에 재학중인 빈용민 입니다.
